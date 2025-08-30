@@ -1,23 +1,90 @@
 <h1 align="center">Hi 👋, I'm Thilokya Angeesa</h1>
-<h3 align="center">Undergraduate Student at Department of Computer Science and Engineering University of Moratuwa</h3>
-
-- 🔭 I’m currently working on **2D Game**
-
-- 🌱 I’m currently learning **Machine Learning and Project Management**
-
-- 📫 How to reach me **thilokyaangeesa@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thilokya angeesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilokya angeesa" height="30" width="40" /></a>
-<a href="https://fb.com/thilokya angeesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thilokya angeesa" height="30" width="40" /></a>
+<p align="center">
+  <b>Undergraduate | Computer Science & Engineering | University of Moratuwa</b><br>
+  <img src="https://img.shields.io/badge/Email-thilokyaangeesa@gmail.com-blue?logo=gmail" />
+  <a href="https://www.linkedin.com/in/thilokya-angeesa-2867462b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Thilokya%20Angeesa-blue?logo=linkedin" />
+  </a>
+  <a href="https://github.com/Thilokya03">
+    <img src="https://img.shields.io/badge/GitHub-Thilokya03-black?logo=github" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilokya03&show_icons=true&locale=en&layout=compact" alt="thilokya03" /></p>
+## 📝 Personal Statement
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilokya03&show_icons=true&locale=en" alt="thilokya03" /></p>
+I am a motivated and detail-oriented Computer Science undergraduate at the University of Moratuwa with a passion for problem-solving, robotics, and hardware debugging. Equipped with strong analytical skills, a collaborative mindset, and a drive for continuous learning. I'm especially interested in projects that bridge software development and real-world applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thilokya03&" alt="thilokya03" /></p>
+---
+
+## 🎓 Education
+
+- **BSc in Computer Science and Engineering**  
+  University of Moratuwa (2024–Present)
+- **Diploma in Education (English / General Studies)**  
+  ESOFT Metro Campus (2023)
+- **G.C.E. Advanced Level – Physical Science Stream**  
+  Bandaranayake College, Sri Lanka (2022/23)  
+  Results: 3 A’s, Z-Score: 2.202
+- **G.C.E. Ordinary Level**  
+  Bandaranayake College (2019)
+
+---
+
+## 💻 Technical Skills
+
+**Programming Languages:**  
+Python, C++, Java, MySQL, C, C#, JavaScript, HTML, CSS, Ballerina, VHDL, Tcl
+
+**Web & Software Development:**  
+React, Node.js, Android Studio
+
+**Tools & Platforms:**  
+Vivado, Git, MS Office, CapCut, Adobe Premiere Pro, After Effects, Command-line tools
+
+**Other Skills:**  
+- Problem Solving & Algorithmic Thinking  
+- Hardware debugging, IT literacy
+
+---
+
+## 🚀 Projects
+
+- [**Nano Processor**](https://github.com/adLahiru/Nano_Processor_v1)  
+  Designed and implemented a 4-bit nano processor using VHDL and Tcl as part of a Computer Organization and Digital Design module.  
+  This project involved building the processor's architecture, simulating its operation, and verifying functionality using testbenches. The experience strengthened my understanding of digital systems, hardware description languages, and FPGA workflows.
+
+- [**Blood Bank Management System**](https://github.com/nadilHesara/iwb25-203-code-drift)  
+  Collaborated with team Code Drift to develop a comprehensive web application for blood bank management, presented at an IEEE Computer Society competition.  
+  The system streamlines donor registration, blood inventory tracking, and hospital requests. Built with JavaScript, Ballerina, CSS, and HTML, this project enhanced my full-stack development, teamwork, and software engineering skills.
+
+---
+
+## 🏆 Interests & Achievements
+
+- **Finalist** – Sri Lanka Robotic Challenge by University of Moratuwa (SLRC) 2025
+- **Finalist** – UOJ Corders V4.0 by University of Jaffna (2025)
+- **Top 10 Team** – Micro Maze 2.0 Competition by IIT (2025)
+- Enjoy participating in algorithmic challenges
+- Strong communicator, capable of working independently and collaboratively
+
+---
+
+## 📫 Connect with Me
+  
+- 📧 [thilokyaangeesa@gmail.com](mailto:thilokyaangeesa@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/thilokya-angeesa-2867462b0/)  
+- [GitHub](https://github.com/Thilokya03)
+
+---
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thilokya03&show_icons=true&locale=en" alt="Thilokya03's GitHub stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thilokya03&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thilokya03&" alt="GitHub Streak" />
+</p>
