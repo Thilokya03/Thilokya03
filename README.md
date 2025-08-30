@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thilokya Angeesa</h1>
 <h3 align="center">Undergraduate Student at Department of Computer Science and Engineering University of Moratuwa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thilokya03&label=Profile%20views&color=0e75b6&style=flat" alt="thilokya03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thilokya03" alt="thilokya03" /></a> </p>
-
 - 🔭 I’m currently working on **2D Game**
 
 - 🌱 I’m currently learning **Machine Learning and Project Management**
