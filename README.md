@@ -9,7 +9,6 @@
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Thilokya03&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
 </p>
 
 ---
