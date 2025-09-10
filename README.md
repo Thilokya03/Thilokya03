@@ -1,90 +1,70 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Thilokya Angeesa</h1>
+<h3 align="center">A passionate Java Developer from Sri Lanka</h3>
+
 <p align="center">
-  <b>Undergraduate | Computer Science & Engineering | University of Moratuwa</b><br>
-  <img src="https://img.shields.io/badge/Email-thilokyaangeesa@gmail.com-blue?logo=gmail" />
-  <a href="https://www.linkedin.com/in/thilokya-angeesa-2867462b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Thilokya%20Angeesa-blue?logo=linkedin" />
+  <a href="https://www.linkedin.com/in/<your-linkedin>/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Thilokya03">
-    <img src="https://img.shields.io/badge/GitHub-Thilokya03-black?logo=github" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Thilokya03&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+</p>
+
+---
+
+### 🚀 **About Me**
+- 🔭 I’m currently working on **POS-System** and **Movie Ticket Reservation System**  
+- 🌱 I’m learning **Advanced Java concepts, Spring Boot, and UI/UX design**  
+- 👯 I’m looking to collaborate on **open-source Java projects**  
+- 💬 Ask me about **Java, Object-Oriented Programming, and Problem Solving**  
+- ⚡ Fun fact: I enjoy solving maze puzzles and algorithmic challenges  
+
+---
+
+### 🛠 **Tech Stack**
+<p>
+  <img src="https://img.shields.io/badge/Code-Java-orange?style=flat&logo=java"/>
+  <img src="https://img.shields.io/badge/Tools-GitHub-black?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=flat&logo=intellij-idea"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql"/>
+  <img src="https://img.shields.io/badge/UI-Figma-pink?style=flat&logo=figma"/>
+</p>
+
+---
+
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thilokya03&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thilokya03&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilokya03&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+### 🌟 **Featured Projects**
+- 🛒 [**POS-System**](https://github.com/Thilokya03/POS-System) – A Java-based point-of-sale system with CSV data handling and billing features.  
+- 🎬 [**Movie Ticket Reservation System**](https://github.com/Thilokya03/Movie-Ticket-Reservation-System) – A console-based booking system using Java and serialization.  
+- 🧩 [**Maze**](https://github.com/Thilokya03/Maze) – Experimental maze-solving algorithms and data structures.
+
+---
+
+### 🌐 **Connect with Me**
+<p>
+  <a href="https://www.linkedin.com/in/<your-linkedin>/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/<your-twitter>" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@handle-blue?style=flat&logo=twitter" alt="Twitter"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## 📝 Personal Statement
-
-I am a motivated and detail-oriented Computer Science undergraduate at the University of Moratuwa with a passion for problem-solving, robotics, and hardware debugging. Equipped with strong analytical skills, a collaborative mindset, and a drive for continuous learning. I'm especially interested in projects that bridge software development and real-world applications.
-
----
-
-## 🎓 Education
-
-- **BSc in Computer Science and Engineering**  
-  University of Moratuwa (2024–Present)
-- **Diploma in Education (English / General Studies)**  
-  ESOFT Metro Campus (2023)
-- **G.C.E. Advanced Level – Physical Science Stream**  
-  Bandaranayake College, Sri Lanka (2022/23)  
-  Results: 3 A’s, Z-Score: 2.202
-- **G.C.E. Ordinary Level**  
-  Bandaranayake College (2019)
-
----
-
-## 💻 Technical Skills
-
-**Programming Languages:**  
-Python, C++, Java, MySQL, C, C#, JavaScript, HTML, CSS, Ballerina, VHDL, Tcl
-
-**Web & Software Development:**  
-React, Node.js, Android Studio
-
-**Tools & Platforms:**  
-Vivado, Git, MS Office, CapCut, Adobe Premiere Pro, After Effects, Command-line tools
-
-**Other Skills:**  
-- Problem Solving & Algorithmic Thinking  
-- Hardware debugging, IT literacy
-
----
-
-## 🚀 Projects
-
-- [**Nano Processor**](https://github.com/adLahiru/Nano_Processor_v1)  
-  Designed and implemented a 4-bit nano processor using VHDL and Tcl as part of a Computer Organization and Digital Design module.  
-  This project involved building the processor's architecture, simulating its operation, and verifying functionality using testbenches. The experience strengthened my understanding of digital systems, hardware description languages, and FPGA workflows.
-
-- [**Blood Bank Management System**](https://github.com/nadilHesara/iwb25-203-code-drift)  
-  Collaborated with team Code Drift to develop a comprehensive web application for blood bank management, presented at an IEEE Computer Society competition.  
-  The system streamlines donor registration, blood inventory tracking, and hospital requests. Built with JavaScript, Ballerina, CSS, and HTML, this project enhanced my full-stack development, teamwork, and software engineering skills.
-
----
-
-## 🏆 Interests & Achievements
-
-- **Finalist** – Sri Lanka Robotic Challenge by University of Moratuwa (SLRC) 2025
-- **Finalist** – UOJ Corders V4.0 by University of Jaffna (2025)
-- **Top 10 Team** – Micro Maze 2.0 Competition by IIT (2025)
-- Enjoy participating in algorithmic challenges
-- Strong communicator, capable of working independently and collaboratively
-
----
-
-## 📫 Connect with Me
-  
-- 📧 [thilokyaangeesa@gmail.com](mailto:thilokyaangeesa@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/thilokya-angeesa-2867462b0/)  
-- [GitHub](https://github.com/Thilokya03)
-
----
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thilokya03&show_icons=true&locale=en" alt="Thilokya03's GitHub stats" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thilokya03&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thilokya03&" alt="GitHub Streak" />
-</p>
+⭐️ From [Thilokya03](https://github.com/Thilokya03)
