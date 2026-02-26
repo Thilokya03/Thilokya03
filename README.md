@@ -51,19 +51,4 @@
 
 ---
 
-### 🌐 **Connect with Me**
-<p>
-  <a href="https://www.linkedin.com/in/<your-linkedin>/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/<your-twitter>" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@handle-blue?style=flat&logo=twitter" alt="Twitter"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email"/>
-  </a>
-</p>
-
----
-
 ⭐️ From [Thilokya03](https://github.com/Thilokya03)
