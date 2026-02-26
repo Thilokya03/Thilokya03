@@ -3,10 +3,7 @@
 <h3 align="center">A passionate Java Developer from Sri Lanka</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/<your-linkedin>/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:thilokyaangeesa@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email"/>
   </a>
 </p>
