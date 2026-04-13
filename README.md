@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Thilokya Angeesa</h1>
-<h3 align="center">A passionate Java Developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Developer from Sri Lanka</h3>
 
 <p align="center">
   <a href="mailto:thilokyaangeesa@gmail.com">
