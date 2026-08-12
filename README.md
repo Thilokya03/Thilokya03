@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Thilokya Angeesa 👋</h1>
 
-<h3 align="center">Computer Science & Engineering Undergraduate | Software Developer | AI/ML Enthusiast</h3>
+<h3 align="center">Computer Science & Engineering Undergraduate | Data Scientist | AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:thilokyaangeesa@gmail.com"><img src="https://img.shields.io/badge/Email-thilokyaangeesa%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
