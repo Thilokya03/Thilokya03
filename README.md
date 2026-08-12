@@ -97,29 +97,26 @@ A QML desktop audio-management application developed collaboratively for a real-
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Thilokya03&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Thilokya's GitHub statistics"
-  />
-  <img
-    width="49%"
-    src="https://streak-stats.demolab.com?user=Thilokya03&theme=tokyonight&hide_border=true"
-    alt="Thilokya's GitHub streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thilokya03&theme=tokyonight"
+    alt="Thilokya's GitHub activity"
   />
 </p>
 
 <p align="center">
   <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilokya03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Thilokya's most used languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thilokya03&theme=tokyonight"
+    alt="Thilokya's GitHub statistics"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thilokya03&theme=tokyonight"
+    alt="Thilokya's most-used languages"
   />
 </p>
 
 ---
 
 <p align="center">
-  <i>Open to internship opportunities, research collaborations, and meaningful software and AI/ML projects.</i>
+  <i>Open to internship opportunities, research collaborations, and meaningful AI/ML projects.</i>
 </p>
 
 <p align="center">
