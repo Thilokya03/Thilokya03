@@ -92,16 +92,6 @@ A QML desktop audio-management application developed collaboratively for a real-
 
 ---
 
-### 🌱 Community & Achievements
-
-- Supporting beginner-friendly, hands-on PyTorch learning through the **PyTorchSL community**.
-- Finalist — **Sri Lanka Robotics Challenge 2026**.
-- Finalist — **Sri Lanka Robotics Challenge 2025**.
-- Finalist — **UoJ Coders V4.0, 2025**.
-- Top 10 Finalist — **Micro Maze 2.0, 2025**.
-- Top 30 — **Data Storm 7.0, 2026**.
-
----
 
 ### 📊 GitHub Activity
 
